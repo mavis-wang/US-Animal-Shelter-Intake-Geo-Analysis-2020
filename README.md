@@ -17,5 +17,5 @@ We aim to provide actionable insights to help animal shelters reduce the crowded
 - [x] Analysis 5.1: Intakes and Breeders Correlation @ Mavis Wang
 - [x] Analysis 5.2: Adoptions and Education Correlation @ Chujie Cai
 
-## Individual Contribution
+## Storyboard
 Geographic intakes and trend Analysis [Demo](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link)
