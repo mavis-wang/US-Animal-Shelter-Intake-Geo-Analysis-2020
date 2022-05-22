@@ -1,15 +1,23 @@
-# US-Animal-Shelter-Intake-and-Adoption-Analysis
-This is a Tableau dashboard demonstrating animal intake and adoption features and trends in the US 2019-2020.
-Key words:  Tableau, data visualization, shelter animal analysis
-## Abstract
-The overpopulation of homeless animals continually grows in the United States. Millions of dogs and cats entered animal shelters are euthanized every year because of overcrowding. According to the law, once an animal enters a shelter, the owner has three to ten days to reclaim the animal before being placed for adoption, sold, or euthanized. Animal shelters are faced with challenges due to limited resources in space, staffing, and facilities. Statistics and literature focus on reasoning and adoption prediction; however, there is little discussion of the actionable implementation to resolve the crowdedness problem. This paper analyzes a series of national dogs and cats data in 2020 to discover factors and trends linked to overcrowding and adoption subjectively and geographically. Through the explorative visualizations, we discovered that the total number of intakes in an animal organization does not necessarily reflect the crowdedness because of the uneven resource distribution among states and organizations. Our study also shows an increasing seasonal trend of the total intakes towards December. Among the adopted dogs and cats, we discover that age, breed, and coat are the top three features affecting the adoption rate. Further, there is a correlation between the total number of licensed breeders and total intakes; however, we do not have enough evidence to conclude such phenomenon as causation, especially when online dog shipping services become prevalent. We aim to provide actionable insights to help animal shelters reduce the crowdedness by (a) transporting animals to the optimal location and (b) increasing their adoption rate.
-## References
-[1]	“Characteristics, Challenges of the Shelter Environment,” ASPCApro, 28-Apr-2020. [Online]. Available: https://www.aspcapro.org/characteristics-challenges-shelter-environment. 
-[2]	“Determining and exceeding capacity,” HumanePro. [Online]. Available: https://humanepro.org/page/determining-and-exceeding-capacity. 
-[3]	J. Bradley and S. Rajendran, “Increasing adoption rates at animal shelters: a two-phase approach to predict length of stay and optimal shelter allocation,” BMC Veterinary Research, vol. 17, no. 1, 2021.
-[4]	M. Hanson, “Animal Euthanasia Statistics [2021]: Shelter Data by Year,” Spots.com, 03-Jan-2021. [Online]. Available: https://spots.com/animal-euthanasia-statistics/.
-[5]	M. P. Cab, “Rescue vs Shelter vs Breeder Pet: Which is Right For You?,” Home. [Online]. Available: https://www.mypetcab.com/blog/rescue-vs-shelter-vs-breeder-pet. 
-[6]	“Pet Statistics,” ASPCA. [Online]. Available: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics. 
-[7]	R. F. and W. and A. Dillingham, “Full Title Name:  Table of State Holding Laws,” Animal Law Legal Center, 01-Jan-1970. [Online]. Available: https://www.animallaw.info/topic/state-holding-period-laws-impounded-animals. 
-[8]	R. Kress, The Doggie in the Window: How One Dog Led Me from the Pet Store to the Factory Farm to Uncover the Truth of Where Puppies Really Come From. Sourcebooks.
-[9]	R. Woods, “Austin Animal Shelter Adoption Predictions - dataset by rdowns26,” data.world, 21-Aug-2017. [Online]. Available: https://data.world/rdowns26/austin-animal-shelter.
+Team Project in 2020 <b>[Paper (PDF)](https://drive.google.com/file/d/1mnebujA4YHY3htwwERdeolPkLV9JMvY3/)</b>
+
+# US Animal Shelter Intake and Adoption Analysis Visualization 2019-20 
+The overpopulation of homeless animals continually grows in the United States. Millions of dogs and cats entered animal shelters are euthanized every year because of overcrowding. According to ASPCA, there are 6.5 million dogs/cats entering animal shelters in the U.S. every year. Each year, approximately 1.5 million of them are euthanized. Local shelters are facing challenges to handle such an amount of intakes due to limited resources. 
+
+We analyzed a series of national dogs and cats data in 2020 to discover factors and trends linked to overcrowding and adoption subjectively and geographically. We also provide a series of interactive visualization and dashboard to provide intuitive insights.
+
+## Goal
+We aim to provide actionable insights to help animal shelters reduce the crowdedness by:
+- relocating animals to decrease period of animal stays in a shelter
+- improve adoption rate
+
+## Analytics Tasks
+- [x] Data collection and wrangle @ Zuojun Zheng
+- [x] Analysis 1: In-Our reason @ Chujie Cai
+- [x] Analysis 2: Crowdedness @ Mavis Wang
+- [x] Analysis 3: Seasonal Trend @ Mavis Wang
+- [x] Analysis 4: Essential Features of Dog/Cat @ Zuojun Zheng
+- [x] Analysis 5.1: Intakes and Breeders Correlation @ Mavis Wang
+- [x] Analysis 5.2: Adoptions and Education Correlation @ Chujie Cai
+
+## Individual Contribution
+Geographic intakes and trend Analysis [Demo](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link)
