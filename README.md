@@ -18,4 +18,4 @@ We aim to provide actionable insights to help animal shelters reduce the crowded
 - [x] Analysis 5.2: Adoptions and Education Correlation @ Chujie Cai
 
 ## Storyboard
-Geographic intakes and trend Analysis [Dashboard](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link)
+Geographic intakes and trend Analysis [Dashboard](https://public.tableau.com/app/profile/gnawsivam/viz/2020USShelterAnimalIntakeDistribution/StoryIntakes)
