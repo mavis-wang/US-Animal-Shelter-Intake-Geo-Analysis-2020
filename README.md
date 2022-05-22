@@ -1,9 +1,7 @@
-Team Project in 2020 <b>[Paper (PDF)](https://drive.google.com/file/d/1mnebujA4YHY3htwwERdeolPkLV9JMvY3/)</b>
+Team Project in 2021 
 
-# US Animal Shelter Intake and Adoption Analysis Visualization 2019-20 
-The overpopulation of homeless animals continually grows in the United States. Millions of dogs and cats entered animal shelters are euthanized every year because of overcrowding. According to ASPCA, there are 6.5 million dogs/cats entering animal shelters in the U.S. every year. Each year, approximately 1.5 million of them are euthanized. Local shelters are facing challenges to handle such an amount of intakes due to limited resources. 
-
-We analyzed a series of national dogs and cats data in 2020 to discover factors and trends linked to overcrowding and adoption subjectively and geographically. We also provide a series of interactive visualization and dashboard to provide intuitive insights.
+# US Animal Shelter Intake and Adoption Analysis Visualization 2020 
+## <b>[Paper (PDF)](https://drive.google.com/file/d/1mnebujA4YHY3htwwERdeolPkLV9JMvY3/)</b>
 
 ## Goal
 We aim to provide actionable insights to help animal shelters reduce the crowdedness by:
