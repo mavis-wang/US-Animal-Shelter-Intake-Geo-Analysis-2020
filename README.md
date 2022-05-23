@@ -1,7 +1,10 @@
-Data Visualization Case Study<br>
+Interactive Data Visualization Case Study<br>
+Part of the [US Animal Shelter Intake and Adoption Analysis 2020](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master)<br>
+
 02.2021 - 03.2021
 
-# US Animal Shelter Intake and Adoption Analysis 2020
+
+# US-Animal-Shelter-Intake-Geo-Analysis-2020
 <p><img src='https://images.unsplash.com/photo-1583787317796-2bc56f8556e2?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070'>
 
 ### Motivation
@@ -22,7 +25,8 @@ According to ASPCA, there are 6.5 million dogs/cats entering animal shelters in 
 - [x] Intakes and Breeders Correlation
 - [x] Geographic intakes and trend analysis
   
-### Dashboard
-Interactive visualization [storyboard (Tableau)](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Dashboard [Tableau](https://public.tableau.com/app/profile/gnawsivam/viz/2020USShelterAnimalIntakeDistribution/StoryIntakes)
+A series of interactive visualizations of animal intake analysis by states.
 
-### [Paper](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
+### Results [Paper](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
+Facts, insights, suggestions, and other analysis.
