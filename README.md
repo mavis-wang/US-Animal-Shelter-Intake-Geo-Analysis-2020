@@ -23,6 +23,6 @@ According to ASPCA, there are 6.5 million dogs/cats entering animal shelters in 
 - [x] Geographic intakes and trend analysis
   
 ### Dashboard
-Interactive visualization [storyboard (Tableau)](https://public.tableau.com/app/profile/gnawsivam/viz/2020USShelterAnimalIntakeDistribution/StoryIntakes)
+Interactive visualization [storyboard (Tableau)](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Results [Paper](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
+### [Paper](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
