@@ -21,4 +21,4 @@ We aim to provide actionable insights to help animal shelters reduce the crowded
 ### Storyboard
 Geographic intakes and trend Analysis [Dashboard](https://public.tableau.com/app/profile/gnawsivam/viz/2020USShelterAnimalIntakeDistribution/StoryIntakes)
 
-### Project Paper [PDF](https://drive.google.com/file/d/1mnebujA4YHY3htwwERdeolPkLV9JMvY3/)
+### Project Paper [PDF](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
