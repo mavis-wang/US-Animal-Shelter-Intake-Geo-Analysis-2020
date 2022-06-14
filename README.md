@@ -1,7 +1,7 @@
 Data Visualization <br>
 02.2021 - 03.2021
 
-# US-Animal-Shelter-Intake-Geo-Analysis-2020
+# 2020 US Animal Shelter Intake Geo Analysis
 ### [Demo](https://public.tableau.com/app/profile/gnawsivam/viz/2020USShelterAnimalIntakeDistribution/StoryIntakes) | [Slides](https://docs.google.com/presentation/d/1ztvoWKKZVsUheLe6urNnDhgU-r4WxpO5TIHfdwet1go/edit?usp=sharing) | [Paper](https://github.com/mavisw/US-Animal-Shelter-Intake-Geo-Analysis-2020/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
 
 <p><img src='https://github.com/mavis-wang/US-Animal-Shelter-Intake-Geo-Analysis-2020/blob/main/animal_shelter_geo_analysis_gif.gif'></p>
