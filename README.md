@@ -1,13 +1,10 @@
-Interactive Data Visualization Case Study<br>
-Extended research of [US Animal Shelter Intake and Adoption Analysis 2020](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master)<br>
+Data Visualization <br>
 02.2021 - 03.2021
 
-
-
-# US-Animal-Shelter-Intake-Geo-Analysis-2020 <br>
+# US-Animal-Shelter-Intake-Geo-Analysis-2020
 ### [Demo](https://public.tableau.com/app/profile/gnawsivam/viz/2020USShelterAnimalIntakeDistribution/StoryIntakes) | [Slides](https://docs.google.com/presentation/d/1ztvoWKKZVsUheLe6urNnDhgU-r4WxpO5TIHfdwet1go/edit?usp=sharing) | [Paper](https://github.com/mavisw/US-Animal-Shelter-Intake-Geo-Analysis-2020/blob/main/Group7_P1_DATA230%20Dashbord_Paper.pdf)
 
-<p><img src='https://github.com/mavisw/US-Animal-Shelter-Intake-Geo-Analysis-2020/blob/main/animal_shelter_geo_analysis_gif.gif'>  
+<p><img src='https://github.com/mavis-wang/US-Animal-Shelter-Intake-Geo-Analysis-2020/blob/main/animal_shelter_geo_analysis_gif.gif'></p>
  
 ### Motivation
 According to ASPCA, there are 6.5 million dogs/cats entering animal shelters in the U.S. every year. Each year, approximately 1.5 million of them are euthanized. Local shelters are facing challenges to handle such an amount of intakes due to limited resources. In this project, we investigated and visualized a series of pets data and statistics in the U.S. to understand what causes animal intakes in shelters and the implied correlation.
