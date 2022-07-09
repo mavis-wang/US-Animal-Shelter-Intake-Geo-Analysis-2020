@@ -11,7 +11,7 @@ According to ASPCA, there are 6.5 million dogs/cats entering animal shelters in 
 
 ### Dataset 
 - [Petfinder API](https://www.petfinder.com/developers/v2/docs/)
-- [Learn how to Petfinder API](https://github.com/helenuria/Petfinder-API)
+- [Learn how to use Petfinder API](https://github.com/helenuria/Petfinder-API)
   
 ### Goal
 1. Provide actionable insights to help animal shelters reduce the crowdedness
