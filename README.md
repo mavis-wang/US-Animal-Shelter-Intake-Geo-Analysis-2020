@@ -14,9 +14,14 @@ According to ASPCA, there are 6.5 million dogs/cats entering animal shelters in 
 - [Learn how to use Petfinder API](https://github.com/helenuria/Petfinder-API)
   
 ### Goal
-1. Provide actionable insights to help animal shelters reduce the crowdedness
-2. Decrease period of animal stays in a shelter
-3. Improve adoption rate
+Help Animal shelters improve adoption rate for dogs and cats by providing actionable insights.
+
+### Solutions
+1. Metrics: Overcrowding Rate (OR) and Imbalance Index. 
+2. Early detection/prediction of overcrowding problems.
+3. Identify imbalanced animal distribution to help relocate based on logistics.
+4. Decrease the period of animal stays in a shelter.
+5. Encourage adoption through hosting events and social channels.
 
 ### Analytics
 - [x] Measure of Crowdedness
